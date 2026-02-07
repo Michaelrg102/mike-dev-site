@@ -77,7 +77,7 @@ section main {
     justify-content: center;
     align-items: center;
     border: solid gray;
-    background-color: gray;
+    background-color: rgb(39, 39, 39);
     border-radius: 50px;
     margin: 30px;
 }
