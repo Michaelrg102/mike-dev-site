@@ -1,0 +1,23 @@
+@import "tailwindcss";
+
+@layer base{
+  *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Gabarito", sans-serif;
+
+  }
+
+  :root{
+    --color-text: rgb(255, 255, 255);
+  }
+
+  body{
+    background-color: #323232;
+  }
+}
+
+li{
+  color: white;
+}
